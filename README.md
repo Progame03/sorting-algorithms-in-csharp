@@ -1,2 +1,3 @@
 # sorting-algorithms-in-csharp
-Sorting algorithms implemented in C#
+Various sorting algorithms implemented in C#
+done purely out of boredom
